@@ -48,13 +48,6 @@ O programa recebe como entrada um número de cartão de crédito (sem espaços o
 
 ## 📸 Imagens
 
-(Opcional) Inclua aqui capturas de tela da aplicação rodando no terminal ou interface gráfica, se você criou uma.
-
-
----
-
-## 📸 Imagens
-
 Aqui está uma captura de tela da aplicação rodando no terminal, identificando automaticamente a bandeira do cartão de crédito:
 
 ![Exemplo de execução](images/exemplo_terminal.png)
